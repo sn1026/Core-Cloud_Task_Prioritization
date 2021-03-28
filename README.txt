@@ -1,3 +1,3 @@
 How to run MCC:
-simply type 'make test', the make file will take of the compilation and 
+simply type 'make test', the make file will handle the compilation
 run the appropriate binaries.
